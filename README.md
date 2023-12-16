@@ -2,6 +2,17 @@
 
 Link to Documentation --> https://drive.google.com/drive/folders/13n74fcIs_2Xvw-adURfMgjXQR7FfMqjs?usp=sharing
 
+Team Members of the Project:
+1. Vasundhara Maheshwari
+   Profile Links:
+   - https://github.com/VasundharaMaheshwari
+   - https://www.linkedin.com/in/vasundhara-m-2point0/
+2. Shreyash Marathe
+   Profile Links:
+   - https://www.linkedin.com/in/shreyash-kmarathe/
+3. Pravanshu Maji
+4. Mayur Mohite
+   
 About:
 -----------------------------------------------------------------------------------------------------------------
 Experience a shift in road safety with our project: the Alcohol Detection and Engine Locking System powered by Arduino Uno. This innovative system seamlessly integrates technology and responsible driving, enhancing safety measures and promoting responsible behaviour on the road aligning with the global call for road safety improvements. 
