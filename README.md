@@ -11,6 +11,8 @@ Team Members of the Project:
    Profile Links:
    - https://www.linkedin.com/in/shreyash-kmarathe/
 3. Pravanshu Maji
+   Profile Links:
+   - https://www.linkedin.com/in/pravanshu-maji-6495722b0/
 4. Mayur Mohite
    
 About:
